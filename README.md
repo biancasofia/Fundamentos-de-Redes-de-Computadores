@@ -26,25 +26,6 @@ Figura 1: diálogo entre hosts. (Fonte Notas de aula)
 
 ![](img/Aspose.Words.d93ca2fb-e8f8-4929-86be-27cba118c970.001.png)
 
-2. Diário de atividades
-
-20/11 - 23/11-> Para realização do desenvolvimento do projeto, antes de começar a prática, cada integrante do grupo realizou um estudo teórico do conteúdo através dos vídeos e apostilas oferecidos pelo professor.
-
-24/11 - 25/11 -> Em seguida, foi feito um estudo do código também disponibilizado pelo docente para um melhor entendimento de como funcionava a comunicação entre os hosts via socket.
-
-26/11 -> Feito isso, evolui-se com o estudo, não apenas só os recomendados, para saber como realizar a comunicação por meio de fila de mensagens entre a camada N e a camada N-1 (conforme a Fig. 1).
-
-27/11 -> Prontamente, foi dirigida para a parte de codificação, em que foi feita parte da implementação da fila de mensagem e alteração do código original propiciado pelo professor para utilização da turma.
-
-28/11 - 29/11 -> Foi terminada a implementação da fila de mensagem. E estava funcionando de forma básica a comunicação entre os hosts.
-
-30/11 - 31/11 -> Estudo de como implementar a negociação de tamanho das strings. 01/11 -> Tentativa frustrada de implementação da negociação.
-
-03/11 -> Aula de dúvida com o professor e entendimento.
-
-03/12- 04/12 -> Desenvolvimento do relatório e implementação da negociação de tamanho das strings.
-
-Durante o percurso do desenvolver do projeto, foi enfrentado alguns desafios já que foi a primeira vez em que os integrantes do grupo se envolviam com o referido tema, entretanto, foi resolvido com bastante esforço e pesquisa em que resultou em sucesso entre a comunicação entre os hosts por meio da comunicação simplex. Todas as etapas de codificação foram feitas em trio.
 
 3. Descrevendo a aplicação
 1. Simplex
